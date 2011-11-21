@@ -1,0 +1,3 @@
+- utilizar Zend_Gdata
+- en php.ini, descomentar la línea
+";extension=php_openssl.dll" 
